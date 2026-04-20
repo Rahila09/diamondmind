@@ -1,3 +1,7 @@
+/* ═══════════════════════════════════════════════════════
+   DIAMOND MIND GIRLS FOUNDATION
+   Navy · Gold · Ivory — Cormorant Garamond + DM Sans
+═══════════════════════════════════════════════════════ */
 :root {
   --color-navy:       #0f1729;
   --color-navy-mid:   #1a2744;
@@ -358,4 +362,3 @@ em{font-style:italic;color:var(--color-gold-deep)}
   .hero-ctas{flex-direction:column;align-items:center}
   .hero-ctas .btn{width:100%;justify-content:center;max-width:300px}
 }
-</style>
